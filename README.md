@@ -1,2 +1,2 @@
-# Tesi
-Repository usato per creare immagine di JupiterLab con Ollama installato
+# custom-image-template
+Template repo to generate a custom image for UniNuvola
