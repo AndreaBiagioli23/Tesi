@@ -5,6 +5,10 @@ USER root
 
 ## -- ADD YOUR CODE HERE !! -- ##
 
+# INSTALL OLLAMA
+RUN curl -fsSL https://ollama.com/install.sh | sh
+RUN pip install ollama
+
 ## --------------------------- ##
 
 # DO NOT EDIT USER VALUE
