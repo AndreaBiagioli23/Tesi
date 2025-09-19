@@ -11,6 +11,9 @@ RUN pip install ollama
 RUN pip install pypdf
 RUN pip install flask
 RUN pip install langhchain_ollama
+RUN pip install langchain_community
+RUN pip install langgraph
+
 
 ## --------------------------- ##
 
