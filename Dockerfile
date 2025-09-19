@@ -10,7 +10,7 @@ RUN curl -fsSL https://ollama.com/install.sh | sh
 RUN pip install ollama
 RUN pip install pypdf
 RUN pip install flask
-RUN pip install langhchain_ollama
+RUN pip install langchain_ollama
 RUN pip install langchain_community
 RUN pip install langgraph
 
