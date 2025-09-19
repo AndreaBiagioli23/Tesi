@@ -8,6 +8,7 @@ USER root
 # INSTALL OLLAMA
 RUN curl -fsSL https://ollama.com/install.sh | sh
 RUN pip install ollama
+RUN pip install pypdf
 
 ## --------------------------- ##
 
